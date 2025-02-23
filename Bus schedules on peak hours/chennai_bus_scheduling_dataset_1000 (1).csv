@@ -1,0 +1,1001 @@
+Place,Route,Time_of_Day,Peak_Type,Passenger_Demand,Traffic_Conditions,Scheduled_Buses
+Kodambakkam,Route_5,Afternoon_School,Office,182,High,36
+Vadapalani,Route_2,Late_Morning,Non_Peak,71,Low,7
+Anna Nagar,Route_2,Early_Afternoon,Non_Peak,48,High,9
+Adyar,Route_2,Afternoon_School,Office,94,High,18
+Tambaram,Route_1,Morning_School,School,186,Low,18
+Tambaram,Route_4,Night,Non_Peak,27,Moderate,3
+Porur,Route_5,Morning_Office,School,140,Low,14
+Tambaram,Route_2,Afternoon_School,Office,100,High,20
+Anna Nagar,Route_2,Morning_Office,School,182,High,36
+Adyar,Route_6,Late_Morning,Non_Peak,77,High,15
+Anna Nagar,Route_2,Late_Morning,Non_Peak,38,High,7
+Kodambakkam,Route_4,Morning_Office,School,166,Moderate,20
+Adyar,Route_4,Evening_Office,School,154,High,30
+Anna Nagar,Route_3,Late_Morning,Non_Peak,30,Low,3
+Anna Nagar,Route_1,Morning_Office,School,167,Low,16
+Vadapalani,Route_4,Morning_School,School,196,Moderate,24
+Guindy,Route_4,Afternoon_School,School,179,High,35
+Mylapore,Route_1,Evening_Office,School,183,High,36
+Tambaram,Route_4,Afternoon_School,College,103,High,20
+Vadapalani,Route_6,Morning_Office,School,82,High,16
+T. Nagar,Route_5,Evening_Office,College,101,Moderate,12
+Vadapalani,Route_5,Evening_Office,Office,132,Low,13
+Anna Nagar,Route_6,Morning_Office,College,81,High,16
+Kodambakkam,Route_1,Evening_Office,College,167,Moderate,20
+Porur,Route_3,Early_Afternoon,Non_Peak,63,Moderate,7
+Mylapore,Route_1,Late_Morning,Non_Peak,49,Low,4
+Mylapore,Route_5,Evening_Office,School,117,High,23
+T. Nagar,Route_5,Afternoon_School,Office,81,Low,8
+T. Nagar,Route_4,Early_Afternoon,Non_Peak,79,High,15
+Anna Nagar,Route_5,Morning_Office,Office,100,High,20
+Adyar,Route_3,Morning_School,School,112,Low,11
+Velachery,Route_4,Evening_Office,Office,155,Moderate,19
+Porur,Route_5,Early_Afternoon,Non_Peak,77,Low,7
+T. Nagar,Route_5,Evening_Office,College,101,Moderate,12
+Anna Nagar,Route_2,Evening_Office,Office,187,Moderate,23
+T. Nagar,Route_2,Late_Morning,Non_Peak,44,Low,4
+Vadapalani,Route_6,Night,Non_Peak,68,Low,6
+Porur,Route_5,Morning_School,School,170,Low,17
+Velachery,Route_3,Afternoon_School,School,138,Moderate,17
+Guindy,Route_5,Morning_School,Office,121,Moderate,15
+Tambaram,Route_6,Evening_Office,School,171,Moderate,21
+Mylapore,Route_2,Night,Non_Peak,79,Low,7
+Vadapalani,Route_3,Morning_School,Office,159,Low,15
+Guindy,Route_4,Morning_School,College,94,Low,9
+Kodambakkam,Route_5,Afternoon_School,School,141,High,28
+Guindy,Route_1,Morning_Office,Office,141,Low,14
+Kodambakkam,Route_5,Late_Morning,Non_Peak,66,Low,6
+Anna Nagar,Route_2,Afternoon_School,School,141,High,28
+Mylapore,Route_3,Morning_School,College,130,Low,13
+T. Nagar,Route_4,Afternoon_School,Office,187,Low,18
+Velachery,Route_3,Night,Non_Peak,74,Moderate,9
+Mylapore,Route_2,Morning_Office,College,195,Low,19
+Anna Nagar,Route_2,Morning_School,College,143,Moderate,17
+Tambaram,Route_3,Night,Non_Peak,76,Low,7
+Kodambakkam,Route_4,Afternoon_School,College,82,Low,8
+Guindy,Route_2,Morning_Office,Office,180,Low,18
+Kodambakkam,Route_6,Early_Afternoon,Non_Peak,70,Low,7
+Vadapalani,Route_1,Afternoon_School,Office,86,Low,8
+Guindy,Route_2,Afternoon_School,Office,100,High,20
+Tambaram,Route_5,Early_Afternoon,Non_Peak,28,Moderate,3
+Tambaram,Route_6,Late_Morning,Non_Peak,58,Moderate,7
+Mylapore,Route_3,Early_Afternoon,Non_Peak,37,Moderate,4
+Mylapore,Route_4,Late_Morning,Non_Peak,23,Low,2
+Mylapore,Route_4,Early_Afternoon,Non_Peak,44,High,8
+Vadapalani,Route_5,Early_Afternoon,Non_Peak,79,Moderate,9
+Anna Nagar,Route_3,Night,Non_Peak,33,Low,3
+Anna Nagar,Route_1,Night,Non_Peak,69,Low,6
+Vadapalani,Route_6,Morning_Office,School,88,High,17
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,45,Moderate,5
+Porur,Route_5,Night,Non_Peak,72,High,14
+Kodambakkam,Route_5,Night,Non_Peak,21,Moderate,2
+Tambaram,Route_3,Early_Afternoon,Non_Peak,39,Moderate,4
+Velachery,Route_2,Early_Afternoon,Non_Peak,47,Moderate,5
+Vadapalani,Route_4,Morning_School,Office,190,High,38
+Anna Nagar,Route_6,Afternoon_School,Office,139,Moderate,17
+Vadapalani,Route_5,Night,Non_Peak,26,High,5
+Porur,Route_5,Afternoon_School,School,123,Moderate,15
+Anna Nagar,Route_1,Night,Non_Peak,27,Moderate,3
+Mylapore,Route_5,Early_Afternoon,Non_Peak,66,Moderate,8
+Adyar,Route_1,Morning_School,College,114,High,22
+T. Nagar,Route_2,Night,Non_Peak,33,Moderate,4
+Porur,Route_3,Late_Morning,Non_Peak,36,High,7
+Vadapalani,Route_2,Evening_Office,School,115,Moderate,14
+Vadapalani,Route_3,Evening_Office,College,129,High,25
+Tambaram,Route_6,Early_Afternoon,Non_Peak,59,High,11
+Mylapore,Route_2,Morning_Office,College,83,Low,8
+Porur,Route_2,Afternoon_School,Office,81,Moderate,10
+Porur,Route_3,Morning_Office,Office,85,High,17
+Mylapore,Route_6,Afternoon_School,Office,133,Moderate,16
+T. Nagar,Route_3,Evening_Office,College,185,High,37
+Guindy,Route_5,Afternoon_School,School,83,Moderate,10
+Porur,Route_5,Evening_Office,School,133,Moderate,16
+Kodambakkam,Route_4,Afternoon_School,Office,172,High,34
+Guindy,Route_3,Afternoon_School,Office,142,Low,14
+Vadapalani,Route_4,Early_Afternoon,Non_Peak,37,Moderate,4
+Guindy,Route_4,Morning_Office,Office,169,Moderate,21
+T. Nagar,Route_2,Morning_School,College,123,Low,12
+Guindy,Route_4,Morning_Office,School,113,Low,11
+Anna Nagar,Route_1,Early_Afternoon,Non_Peak,29,Low,2
+T. Nagar,Route_4,Afternoon_School,Office,141,Moderate,17
+Guindy,Route_3,Evening_Office,Office,179,Low,17
+Porur,Route_5,Afternoon_School,Office,93,High,18
+Mylapore,Route_6,Afternoon_School,School,174,High,34
+Anna Nagar,Route_2,Evening_Office,School,127,Low,12
+Anna Nagar,Route_3,Evening_Office,Office,94,Moderate,11
+Vadapalani,Route_6,Late_Morning,Non_Peak,27,Moderate,3
+Kodambakkam,Route_4,Morning_School,College,157,High,31
+Porur,Route_6,Early_Afternoon,Non_Peak,42,Moderate,5
+T. Nagar,Route_5,Night,Non_Peak,79,High,15
+Adyar,Route_5,Morning_School,College,141,Low,14
+Guindy,Route_3,Early_Afternoon,Non_Peak,59,High,11
+Kodambakkam,Route_3,Night,Non_Peak,40,High,8
+Adyar,Route_2,Night,Non_Peak,35,Moderate,4
+Vadapalani,Route_3,Morning_School,College,188,High,37
+Porur,Route_3,Morning_School,School,161,Low,16
+Anna Nagar,Route_4,Late_Morning,Non_Peak,66,High,13
+Mylapore,Route_6,Late_Morning,Non_Peak,72,High,14
+Vadapalani,Route_1,Late_Morning,Non_Peak,43,High,8
+Velachery,Route_6,Evening_Office,Office,105,Moderate,13
+Velachery,Route_4,Morning_Office,School,168,Moderate,21
+Kodambakkam,Route_1,Morning_Office,Office,139,High,27
+Vadapalani,Route_4,Early_Afternoon,Non_Peak,79,Moderate,9
+Velachery,Route_6,Afternoon_School,Office,188,Low,18
+Guindy,Route_5,Afternoon_School,College,120,High,24
+Tambaram,Route_1,Morning_School,Office,108,Moderate,13
+Tambaram,Route_4,Late_Morning,Non_Peak,34,High,6
+Kodambakkam,Route_1,Early_Afternoon,Non_Peak,64,High,12
+Porur,Route_1,Early_Afternoon,Non_Peak,20,Low,2
+T. Nagar,Route_2,Morning_Office,Office,168,Moderate,21
+Guindy,Route_3,Morning_Office,College,150,Moderate,18
+Mylapore,Route_1,Night,Non_Peak,28,High,5
+Anna Nagar,Route_3,Evening_Office,College,167,Low,16
+Tambaram,Route_3,Early_Afternoon,Non_Peak,20,High,4
+T. Nagar,Route_4,Morning_School,School,187,Moderate,23
+Tambaram,Route_1,Afternoon_School,College,87,High,17
+Velachery,Route_3,Morning_Office,School,167,Moderate,20
+Guindy,Route_1,Morning_School,Office,142,Moderate,17
+Velachery,Route_3,Morning_School,School,90,High,18
+Anna Nagar,Route_4,Early_Afternoon,Non_Peak,70,Moderate,8
+Adyar,Route_4,Night,Non_Peak,36,Moderate,4
+Guindy,Route_3,Late_Morning,Non_Peak,27,High,5
+Vadapalani,Route_6,Evening_Office,College,114,Moderate,14
+Guindy,Route_2,Afternoon_School,Office,114,Moderate,14
+Guindy,Route_5,Evening_Office,College,112,High,22
+Guindy,Route_1,Morning_Office,Office,84,Low,8
+Vadapalani,Route_6,Morning_Office,School,185,Moderate,23
+Tambaram,Route_2,Morning_Office,College,182,Low,18
+Mylapore,Route_6,Morning_School,College,120,Moderate,15
+Kodambakkam,Route_4,Night,Non_Peak,47,Moderate,5
+Porur,Route_1,Night,Non_Peak,26,Low,2
+Velachery,Route_4,Late_Morning,Non_Peak,28,Low,2
+Guindy,Route_6,Morning_School,School,151,Low,15
+Anna Nagar,Route_3,Afternoon_School,College,91,High,18
+Guindy,Route_2,Early_Afternoon,Non_Peak,53,Moderate,6
+Mylapore,Route_4,Late_Morning,Non_Peak,52,Moderate,6
+Anna Nagar,Route_4,Morning_Office,School,127,High,25
+Porur,Route_4,Evening_Office,School,198,High,39
+Velachery,Route_6,Early_Afternoon,Non_Peak,42,Low,4
+Guindy,Route_6,Evening_Office,College,141,High,28
+Mylapore,Route_6,Evening_Office,School,167,Low,16
+Kodambakkam,Route_5,Early_Afternoon,Non_Peak,56,Low,5
+Porur,Route_2,Morning_School,Office,178,Moderate,22
+Velachery,Route_3,Evening_Office,College,123,High,24
+T. Nagar,Route_1,Early_Afternoon,Non_Peak,59,Moderate,7
+Velachery,Route_4,Night,Non_Peak,41,High,8
+Porur,Route_1,Afternoon_School,School,170,High,34
+Anna Nagar,Route_6,Morning_Office,School,114,Low,11
+Porur,Route_6,Morning_Office,Office,144,Moderate,18
+T. Nagar,Route_5,Morning_Office,College,178,High,35
+Porur,Route_2,Night,Non_Peak,56,Low,5
+Anna Nagar,Route_3,Night,Non_Peak,66,Moderate,8
+Kodambakkam,Route_2,Evening_Office,Office,157,Moderate,19
+Mylapore,Route_3,Afternoon_School,School,82,Low,8
+Adyar,Route_5,Early_Afternoon,Non_Peak,20,Moderate,2
+T. Nagar,Route_5,Morning_School,College,84,Low,8
+Porur,Route_4,Morning_Office,School,169,High,33
+Guindy,Route_5,Morning_School,School,198,Low,19
+Guindy,Route_5,Morning_School,School,93,Low,9
+T. Nagar,Route_3,Morning_School,School,182,Low,18
+T. Nagar,Route_1,Late_Morning,Non_Peak,46,Moderate,5
+Kodambakkam,Route_2,Afternoon_School,School,88,Low,8
+Anna Nagar,Route_5,Morning_Office,Office,158,Low,15
+Tambaram,Route_6,Afternoon_School,College,94,High,18
+Anna Nagar,Route_6,Early_Afternoon,Non_Peak,45,Low,4
+Guindy,Route_1,Late_Morning,Non_Peak,61,Moderate,7
+Velachery,Route_3,Night,Non_Peak,79,High,15
+Kodambakkam,Route_4,Evening_Office,School,156,High,31
+Velachery,Route_3,Early_Afternoon,Non_Peak,70,Moderate,8
+Velachery,Route_5,Night,Non_Peak,51,High,10
+Velachery,Route_2,Evening_Office,Office,182,High,36
+Tambaram,Route_3,Early_Afternoon,Non_Peak,68,High,13
+Adyar,Route_5,Morning_Office,School,131,Moderate,16
+Anna Nagar,Route_6,Late_Morning,Non_Peak,51,Low,5
+Tambaram,Route_5,Morning_Office,College,83,Low,8
+Anna Nagar,Route_2,Evening_Office,College,173,Low,17
+T. Nagar,Route_5,Night,Non_Peak,56,Moderate,7
+Mylapore,Route_2,Late_Morning,Non_Peak,42,High,8
+Velachery,Route_2,Night,Non_Peak,58,Low,5
+Velachery,Route_2,Afternoon_School,College,188,Low,18
+Anna Nagar,Route_1,Night,Non_Peak,34,Moderate,4
+Kodambakkam,Route_4,Night,Non_Peak,62,Low,6
+T. Nagar,Route_1,Late_Morning,Non_Peak,48,High,9
+Guindy,Route_3,Night,Non_Peak,55,Low,5
+Porur,Route_1,Evening_Office,Office,92,Low,9
+Kodambakkam,Route_6,Late_Morning,Non_Peak,51,Moderate,6
+Guindy,Route_4,Morning_School,School,150,Moderate,18
+Guindy,Route_2,Late_Morning,Non_Peak,78,Moderate,9
+T. Nagar,Route_4,Night,Non_Peak,70,High,14
+Tambaram,Route_3,Night,Non_Peak,41,Low,4
+Porur,Route_5,Evening_Office,College,107,High,21
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,21,Low,2
+Porur,Route_6,Night,Non_Peak,61,High,12
+Kodambakkam,Route_5,Morning_School,Office,124,Low,12
+Adyar,Route_3,Evening_Office,College,141,High,28
+Tambaram,Route_4,Afternoon_School,School,136,Moderate,17
+T. Nagar,Route_4,Evening_Office,School,196,Low,19
+Vadapalani,Route_6,Late_Morning,Non_Peak,25,Moderate,3
+Velachery,Route_4,Night,Non_Peak,47,Moderate,5
+Kodambakkam,Route_6,Evening_Office,Office,107,Moderate,13
+Kodambakkam,Route_6,Night,Non_Peak,63,Low,6
+T. Nagar,Route_4,Afternoon_School,School,123,Moderate,15
+T. Nagar,Route_4,Early_Afternoon,Non_Peak,39,Low,3
+Kodambakkam,Route_2,Morning_Office,School,109,Moderate,13
+T. Nagar,Route_1,Early_Afternoon,Non_Peak,30,Moderate,3
+Tambaram,Route_2,Late_Morning,Non_Peak,77,Low,7
+Kodambakkam,Route_2,Night,Non_Peak,74,Low,7
+Kodambakkam,Route_5,Morning_School,School,171,Low,17
+T. Nagar,Route_4,Evening_Office,School,168,High,33
+Velachery,Route_3,Morning_School,Office,182,Moderate,22
+Velachery,Route_6,Late_Morning,Non_Peak,52,Moderate,6
+Guindy,Route_2,Morning_Office,Office,80,Low,8
+Mylapore,Route_3,Early_Afternoon,Non_Peak,76,Moderate,9
+Guindy,Route_1,Morning_School,School,106,High,21
+Velachery,Route_5,Night,Non_Peak,76,High,15
+Porur,Route_5,Night,Non_Peak,71,High,14
+Tambaram,Route_5,Night,Non_Peak,32,Low,3
+T. Nagar,Route_6,Morning_Office,College,184,Moderate,23
+Guindy,Route_6,Night,Non_Peak,22,High,4
+Porur,Route_1,Evening_Office,School,182,High,36
+Adyar,Route_6,Afternoon_School,College,149,High,29
+T. Nagar,Route_4,Late_Morning,Non_Peak,27,Moderate,3
+Kodambakkam,Route_2,Morning_School,School,106,Low,10
+Velachery,Route_3,Night,Non_Peak,28,High,5
+Velachery,Route_4,Late_Morning,Non_Peak,56,Moderate,7
+Kodambakkam,Route_3,Morning_School,College,176,Low,17
+T. Nagar,Route_2,Night,Non_Peak,70,High,14
+Kodambakkam,Route_1,Afternoon_School,College,185,Low,18
+Adyar,Route_5,Night,Non_Peak,63,Moderate,7
+Tambaram,Route_5,Afternoon_School,Office,103,High,20
+Anna Nagar,Route_2,Early_Afternoon,Non_Peak,34,High,6
+Vadapalani,Route_5,Early_Afternoon,Non_Peak,78,Low,7
+Velachery,Route_4,Late_Morning,Non_Peak,73,High,14
+Guindy,Route_2,Afternoon_School,College,111,High,22
+Anna Nagar,Route_5,Late_Morning,Non_Peak,51,Low,5
+Vadapalani,Route_3,Morning_School,College,167,Low,16
+Velachery,Route_4,Evening_Office,School,184,Low,18
+Kodambakkam,Route_6,Afternoon_School,Office,131,High,26
+Velachery,Route_5,Afternoon_School,Office,192,High,38
+Porur,Route_4,Night,Non_Peak,68,High,13
+Tambaram,Route_2,Morning_Office,Office,137,Low,13
+Guindy,Route_1,Early_Afternoon,Non_Peak,71,Low,7
+Kodambakkam,Route_5,Late_Morning,Non_Peak,31,Low,3
+Adyar,Route_3,Early_Afternoon,Non_Peak,58,Moderate,7
+Porur,Route_1,Morning_School,Office,81,Low,8
+Anna Nagar,Route_6,Morning_School,Office,82,Moderate,10
+Mylapore,Route_6,Early_Afternoon,Non_Peak,68,Low,6
+Mylapore,Route_6,Morning_School,College,180,Moderate,22
+Anna Nagar,Route_4,Afternoon_School,Office,192,High,38
+Adyar,Route_6,Night,Non_Peak,75,Moderate,9
+Guindy,Route_3,Morning_School,College,160,Moderate,20
+Adyar,Route_1,Morning_Office,College,138,High,27
+Kodambakkam,Route_4,Early_Afternoon,Non_Peak,68,Low,6
+Anna Nagar,Route_6,Late_Morning,Non_Peak,21,High,4
+Porur,Route_5,Evening_Office,School,81,High,16
+Mylapore,Route_3,Afternoon_School,College,171,Low,17
+Mylapore,Route_5,Evening_Office,College,133,High,26
+T. Nagar,Route_2,Late_Morning,Non_Peak,42,Moderate,5
+Velachery,Route_4,Late_Morning,Non_Peak,56,Moderate,7
+Kodambakkam,Route_2,Early_Afternoon,Non_Peak,51,High,10
+Guindy,Route_5,Late_Morning,Non_Peak,52,High,10
+Guindy,Route_5,Afternoon_School,School,80,High,16
+Mylapore,Route_2,Late_Morning,Non_Peak,38,High,7
+Adyar,Route_3,Morning_Office,Office,81,Moderate,10
+Adyar,Route_4,Morning_Office,School,132,Low,13
+Vadapalani,Route_3,Late_Morning,Non_Peak,63,Low,6
+Porur,Route_5,Afternoon_School,Office,169,Low,16
+Porur,Route_3,Night,Non_Peak,51,High,10
+T. Nagar,Route_5,Morning_Office,School,149,Moderate,18
+Mylapore,Route_2,Night,Non_Peak,51,High,10
+Velachery,Route_2,Morning_Office,College,198,High,39
+T. Nagar,Route_6,Early_Afternoon,Non_Peak,23,Moderate,2
+Guindy,Route_4,Morning_School,College,134,High,26
+Mylapore,Route_2,Afternoon_School,School,154,High,30
+Adyar,Route_3,Late_Morning,Non_Peak,75,Moderate,9
+Adyar,Route_6,Morning_School,College,96,High,19
+Kodambakkam,Route_3,Late_Morning,Non_Peak,57,Low,5
+Vadapalani,Route_6,Night,Non_Peak,43,Moderate,5
+Adyar,Route_2,Morning_Office,Office,148,Moderate,18
+Kodambakkam,Route_6,Morning_School,College,195,High,39
+Porur,Route_5,Night,Non_Peak,53,Low,5
+Velachery,Route_2,Late_Morning,Non_Peak,25,Low,2
+Vadapalani,Route_1,Early_Afternoon,Non_Peak,41,High,8
+Kodambakkam,Route_4,Early_Afternoon,Non_Peak,30,High,6
+Guindy,Route_3,Late_Morning,Non_Peak,67,Low,6
+Tambaram,Route_2,Late_Morning,Non_Peak,35,High,7
+Adyar,Route_1,Early_Afternoon,Non_Peak,52,High,10
+Vadapalani,Route_6,Night,Non_Peak,28,High,5
+T. Nagar,Route_4,Evening_Office,College,138,Low,13
+Velachery,Route_1,Night,Non_Peak,25,Low,2
+Porur,Route_6,Early_Afternoon,Non_Peak,35,High,7
+T. Nagar,Route_5,Afternoon_School,Office,172,High,34
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,22,Low,2
+Velachery,Route_3,Early_Afternoon,Non_Peak,39,Low,3
+Vadapalani,Route_4,Early_Afternoon,Non_Peak,79,High,15
+Porur,Route_1,Early_Afternoon,Non_Peak,78,Low,7
+Guindy,Route_6,Late_Morning,Non_Peak,55,High,11
+Velachery,Route_5,Evening_Office,Office,98,Low,9
+Porur,Route_5,Morning_School,College,169,Low,16
+Vadapalani,Route_1,Late_Morning,Non_Peak,22,Moderate,2
+Kodambakkam,Route_4,Night,Non_Peak,38,Moderate,4
+Adyar,Route_4,Morning_Office,College,99,Moderate,12
+Vadapalani,Route_1,Afternoon_School,School,175,Moderate,21
+Tambaram,Route_5,Morning_School,College,150,High,30
+Mylapore,Route_5,Afternoon_School,Office,131,Moderate,16
+Guindy,Route_1,Late_Morning,Non_Peak,60,Moderate,7
+Vadapalani,Route_2,Afternoon_School,School,112,High,22
+Vadapalani,Route_2,Late_Morning,Non_Peak,59,High,11
+T. Nagar,Route_5,Evening_Office,Office,118,High,23
+Vadapalani,Route_3,Early_Afternoon,Non_Peak,37,High,7
+Porur,Route_4,Night,Non_Peak,59,High,11
+Mylapore,Route_6,Evening_Office,School,80,High,16
+Adyar,Route_4,Afternoon_School,School,90,Low,9
+T. Nagar,Route_3,Evening_Office,College,171,High,34
+Adyar,Route_6,Night,Non_Peak,76,Low,7
+Kodambakkam,Route_1,Night,Non_Peak,44,High,8
+Adyar,Route_1,Evening_Office,Office,129,Moderate,16
+Kodambakkam,Route_3,Early_Afternoon,Non_Peak,42,Low,4
+Velachery,Route_6,Morning_Office,College,110,Moderate,13
+Porur,Route_4,Night,Non_Peak,49,High,9
+Kodambakkam,Route_2,Afternoon_School,School,121,High,24
+T. Nagar,Route_2,Afternoon_School,Office,178,High,35
+Vadapalani,Route_5,Early_Afternoon,Non_Peak,26,Moderate,3
+Velachery,Route_6,Late_Morning,Non_Peak,79,Low,7
+Guindy,Route_2,Morning_School,College,95,Moderate,11
+Guindy,Route_5,Afternoon_School,School,169,High,33
+Mylapore,Route_3,Night,Non_Peak,67,High,13
+Porur,Route_3,Late_Morning,Non_Peak,76,Low,7
+T. Nagar,Route_2,Afternoon_School,Office,195,High,39
+Adyar,Route_3,Morning_School,Office,139,Moderate,17
+T. Nagar,Route_4,Night,Non_Peak,68,High,13
+Anna Nagar,Route_3,Early_Afternoon,Non_Peak,21,Low,2
+Kodambakkam,Route_3,Morning_School,College,80,High,16
+Anna Nagar,Route_2,Evening_Office,School,127,Low,12
+Guindy,Route_4,Afternoon_School,School,91,Moderate,11
+Porur,Route_3,Evening_Office,Office,148,Low,14
+Kodambakkam,Route_6,Late_Morning,Non_Peak,56,Low,5
+Tambaram,Route_3,Morning_Office,Office,111,Low,11
+Porur,Route_5,Late_Morning,Non_Peak,78,Moderate,9
+Velachery,Route_4,Afternoon_School,College,198,Low,19
+Kodambakkam,Route_3,Night,Non_Peak,28,Low,2
+Tambaram,Route_3,Evening_Office,Office,184,Low,18
+Vadapalani,Route_5,Early_Afternoon,Non_Peak,54,Low,5
+Adyar,Route_4,Afternoon_School,College,98,High,19
+Kodambakkam,Route_5,Night,Non_Peak,67,High,13
+Vadapalani,Route_1,Morning_School,School,159,Low,15
+Vadapalani,Route_2,Afternoon_School,School,82,Low,8
+Kodambakkam,Route_5,Night,Non_Peak,39,Low,3
+Vadapalani,Route_1,Afternoon_School,College,103,Low,10
+Kodambakkam,Route_5,Afternoon_School,School,133,Moderate,16
+Anna Nagar,Route_6,Morning_School,Office,199,Moderate,24
+Guindy,Route_6,Early_Afternoon,Non_Peak,52,Low,5
+Adyar,Route_6,Morning_School,Office,103,Low,10
+T. Nagar,Route_3,Afternoon_School,College,195,Moderate,24
+Anna Nagar,Route_4,Morning_School,Office,154,Moderate,19
+T. Nagar,Route_6,Afternoon_School,College,192,Moderate,24
+Guindy,Route_5,Morning_School,Office,151,Moderate,18
+Mylapore,Route_2,Morning_Office,Office,115,High,23
+Vadapalani,Route_6,Early_Afternoon,Non_Peak,57,High,11
+T. Nagar,Route_2,Early_Afternoon,Non_Peak,59,Moderate,7
+Tambaram,Route_6,Evening_Office,School,163,Moderate,20
+T. Nagar,Route_3,Early_Afternoon,Non_Peak,54,Low,5
+Anna Nagar,Route_6,Late_Morning,Non_Peak,67,Moderate,8
+Vadapalani,Route_3,Morning_School,School,168,Low,16
+Adyar,Route_4,Morning_School,College,178,Low,17
+Kodambakkam,Route_1,Afternoon_School,College,104,Low,10
+Tambaram,Route_6,Afternoon_School,School,172,Low,17
+Mylapore,Route_5,Morning_School,Office,97,Moderate,12
+Adyar,Route_2,Morning_Office,Office,189,Low,18
+Kodambakkam,Route_5,Evening_Office,Office,161,Moderate,20
+Adyar,Route_5,Early_Afternoon,Non_Peak,21,Low,2
+Tambaram,Route_1,Afternoon_School,College,133,High,26
+Porur,Route_5,Night,Non_Peak,54,High,10
+Adyar,Route_3,Evening_Office,College,159,Low,15
+Guindy,Route_1,Evening_Office,College,140,Low,14
+Kodambakkam,Route_2,Evening_Office,School,120,Moderate,15
+Kodambakkam,Route_6,Afternoon_School,School,179,Low,17
+Mylapore,Route_3,Night,Non_Peak,52,Low,5
+Kodambakkam,Route_2,Night,Non_Peak,23,High,4
+Adyar,Route_5,Late_Morning,Non_Peak,52,Moderate,6
+Anna Nagar,Route_6,Late_Morning,Non_Peak,33,Low,3
+Guindy,Route_5,Night,Non_Peak,40,Low,4
+Adyar,Route_1,Evening_Office,Office,127,Moderate,15
+Mylapore,Route_1,Morning_School,School,99,Low,9
+Tambaram,Route_1,Night,Non_Peak,75,Low,7
+Kodambakkam,Route_5,Afternoon_School,School,87,High,17
+Anna Nagar,Route_1,Morning_School,School,86,Low,8
+Anna Nagar,Route_3,Morning_School,College,146,High,29
+Velachery,Route_3,Early_Afternoon,Non_Peak,36,High,7
+Vadapalani,Route_1,Night,Non_Peak,52,High,10
+Anna Nagar,Route_3,Early_Afternoon,Non_Peak,67,Moderate,8
+Guindy,Route_6,Afternoon_School,Office,155,Low,15
+T. Nagar,Route_4,Afternoon_School,Office,138,Low,13
+Anna Nagar,Route_1,Afternoon_School,School,194,Moderate,24
+Guindy,Route_5,Morning_Office,Office,165,Low,16
+Mylapore,Route_2,Early_Afternoon,Non_Peak,74,Low,7
+Guindy,Route_3,Morning_Office,School,101,Moderate,12
+Mylapore,Route_4,Morning_School,College,189,High,37
+Anna Nagar,Route_4,Late_Morning,Non_Peak,49,Low,4
+Porur,Route_3,Evening_Office,Office,117,High,23
+Velachery,Route_1,Morning_Office,Office,181,Low,18
+Mylapore,Route_1,Afternoon_School,School,188,Low,18
+Guindy,Route_5,Night,Non_Peak,70,Moderate,8
+Vadapalani,Route_1,Morning_School,College,133,Low,13
+Porur,Route_3,Night,Non_Peak,27,Low,2
+Velachery,Route_1,Evening_Office,College,106,Moderate,13
+Kodambakkam,Route_6,Afternoon_School,Office,106,Low,10
+T. Nagar,Route_6,Afternoon_School,School,177,High,35
+Vadapalani,Route_4,Early_Afternoon,Non_Peak,40,Moderate,5
+Guindy,Route_2,Night,Non_Peak,49,High,9
+Adyar,Route_5,Morning_School,Office,176,Moderate,22
+T. Nagar,Route_6,Morning_School,College,107,Low,10
+Anna Nagar,Route_1,Early_Afternoon,Non_Peak,66,High,13
+Guindy,Route_2,Night,Non_Peak,52,Low,5
+Guindy,Route_6,Morning_Office,School,148,High,29
+Porur,Route_2,Morning_Office,Office,140,High,28
+Adyar,Route_1,Late_Morning,Non_Peak,67,High,13
+Tambaram,Route_3,Morning_School,College,98,High,19
+Kodambakkam,Route_6,Late_Morning,Non_Peak,23,Moderate,2
+Anna Nagar,Route_5,Morning_School,Office,114,Moderate,14
+Adyar,Route_4,Late_Morning,Non_Peak,68,Low,6
+Guindy,Route_2,Morning_Office,College,96,Moderate,12
+T. Nagar,Route_4,Evening_Office,School,123,High,24
+Kodambakkam,Route_6,Morning_Office,Office,171,Low,17
+Anna Nagar,Route_1,Early_Afternoon,Non_Peak,49,Low,4
+T. Nagar,Route_2,Late_Morning,Non_Peak,48,Moderate,6
+Tambaram,Route_5,Evening_Office,College,125,Low,12
+Adyar,Route_1,Night,Non_Peak,72,Low,7
+Porur,Route_5,Morning_School,Office,85,Moderate,10
+T. Nagar,Route_6,Night,Non_Peak,54,Low,5
+Velachery,Route_1,Morning_School,Office,184,Moderate,23
+Guindy,Route_3,Afternoon_School,College,116,High,23
+Anna Nagar,Route_2,Morning_School,School,103,High,20
+Velachery,Route_6,Late_Morning,Non_Peak,48,High,9
+Adyar,Route_1,Morning_School,Office,192,Moderate,24
+Adyar,Route_1,Afternoon_School,College,125,High,25
+Kodambakkam,Route_2,Early_Afternoon,Non_Peak,72,Low,7
+Porur,Route_4,Morning_Office,School,174,High,34
+Vadapalani,Route_4,Late_Morning,Non_Peak,54,High,10
+T. Nagar,Route_1,Night,Non_Peak,79,Moderate,9
+Porur,Route_1,Early_Afternoon,Non_Peak,52,Moderate,6
+Tambaram,Route_6,Night,Non_Peak,71,Moderate,8
+T. Nagar,Route_4,Evening_Office,College,142,Moderate,17
+Anna Nagar,Route_1,Afternoon_School,School,164,Low,16
+Mylapore,Route_3,Morning_Office,School,111,High,22
+Vadapalani,Route_1,Morning_School,Office,166,High,33
+Kodambakkam,Route_6,Late_Morning,Non_Peak,52,Moderate,6
+Adyar,Route_6,Morning_School,College,146,High,29
+Guindy,Route_6,Morning_Office,College,97,High,19
+Adyar,Route_2,Afternoon_School,School,104,High,20
+T. Nagar,Route_3,Afternoon_School,Office,185,Low,18
+T. Nagar,Route_5,Late_Morning,Non_Peak,50,Moderate,6
+Guindy,Route_2,Afternoon_School,College,133,High,26
+Guindy,Route_6,Late_Morning,Non_Peak,77,Moderate,9
+Anna Nagar,Route_3,Early_Afternoon,Non_Peak,22,Moderate,2
+Porur,Route_6,Early_Afternoon,Non_Peak,59,High,11
+Kodambakkam,Route_3,Morning_School,College,125,Low,12
+Adyar,Route_1,Early_Afternoon,Non_Peak,43,High,8
+Velachery,Route_2,Evening_Office,Office,193,Moderate,24
+Guindy,Route_4,Afternoon_School,College,111,Low,11
+Anna Nagar,Route_1,Afternoon_School,Office,126,High,25
+Mylapore,Route_3,Early_Afternoon,Non_Peak,41,Moderate,5
+Anna Nagar,Route_2,Early_Afternoon,Non_Peak,42,Moderate,5
+Velachery,Route_3,Morning_School,School,145,Low,14
+Kodambakkam,Route_3,Afternoon_School,Office,106,Low,10
+Guindy,Route_3,Night,Non_Peak,61,High,12
+Velachery,Route_4,Early_Afternoon,Non_Peak,21,High,4
+Adyar,Route_2,Afternoon_School,School,169,Low,16
+T. Nagar,Route_6,Morning_School,College,96,Low,9
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,59,High,11
+Kodambakkam,Route_3,Morning_Office,Office,112,Low,11
+T. Nagar,Route_6,Morning_School,Office,88,High,17
+T. Nagar,Route_5,Afternoon_School,Office,122,Moderate,15
+T. Nagar,Route_2,Evening_Office,Office,197,High,39
+Adyar,Route_2,Evening_Office,School,127,Low,12
+Tambaram,Route_5,Early_Afternoon,Non_Peak,58,High,11
+T. Nagar,Route_4,Afternoon_School,Office,172,Low,17
+Porur,Route_4,Morning_School,Office,121,High,24
+Tambaram,Route_6,Morning_Office,School,198,High,39
+Mylapore,Route_3,Evening_Office,Office,105,High,21
+Mylapore,Route_3,Evening_Office,College,178,High,35
+Kodambakkam,Route_5,Morning_School,Office,129,High,25
+Adyar,Route_4,Early_Afternoon,Non_Peak,44,Moderate,5
+Adyar,Route_4,Morning_Office,College,103,Low,10
+Anna Nagar,Route_1,Morning_Office,School,92,Low,9
+Kodambakkam,Route_1,Morning_Office,School,139,Moderate,17
+Vadapalani,Route_1,Late_Morning,Non_Peak,77,High,15
+Vadapalani,Route_5,Night,Non_Peak,26,Low,2
+Mylapore,Route_6,Afternoon_School,College,136,Moderate,17
+Mylapore,Route_5,Afternoon_School,School,115,Low,11
+Guindy,Route_6,Evening_Office,Office,124,Low,12
+Vadapalani,Route_6,Afternoon_School,Office,99,Moderate,12
+Vadapalani,Route_3,Morning_School,School,144,Moderate,18
+Anna Nagar,Route_3,Morning_Office,School,87,Moderate,10
+Adyar,Route_2,Night,Non_Peak,65,High,13
+Anna Nagar,Route_3,Night,Non_Peak,35,Low,3
+Kodambakkam,Route_4,Afternoon_School,Office,93,High,18
+Guindy,Route_3,Morning_School,College,155,High,31
+Guindy,Route_5,Afternoon_School,College,194,Moderate,24
+Tambaram,Route_1,Morning_Office,Office,166,Moderate,20
+Anna Nagar,Route_5,Afternoon_School,School,94,High,18
+Adyar,Route_5,Night,Non_Peak,47,High,9
+Mylapore,Route_3,Evening_Office,Office,177,High,35
+T. Nagar,Route_3,Late_Morning,Non_Peak,21,Low,2
+Adyar,Route_1,Afternoon_School,School,111,Low,11
+Anna Nagar,Route_5,Morning_Office,School,166,High,33
+Mylapore,Route_6,Afternoon_School,School,142,Low,14
+Vadapalani,Route_3,Late_Morning,Non_Peak,41,High,8
+Vadapalani,Route_5,Evening_Office,School,130,Moderate,16
+Porur,Route_1,Early_Afternoon,Non_Peak,44,Low,4
+Tambaram,Route_5,Night,Non_Peak,77,Moderate,9
+Velachery,Route_2,Afternoon_School,School,142,Low,14
+Velachery,Route_4,Night,Non_Peak,41,Low,4
+Anna Nagar,Route_4,Morning_Office,School,137,Low,13
+Porur,Route_4,Evening_Office,School,137,High,27
+Mylapore,Route_3,Evening_Office,College,165,High,33
+Velachery,Route_2,Afternoon_School,School,128,Moderate,16
+Mylapore,Route_3,Morning_Office,College,131,Moderate,16
+Vadapalani,Route_2,Afternoon_School,Office,121,Moderate,15
+Vadapalani,Route_6,Early_Afternoon,Non_Peak,25,Low,2
+Kodambakkam,Route_1,Late_Morning,Non_Peak,34,Moderate,4
+Vadapalani,Route_2,Afternoon_School,Office,133,Low,13
+Kodambakkam,Route_1,Early_Afternoon,Non_Peak,62,Moderate,7
+Guindy,Route_2,Evening_Office,School,139,Low,13
+Guindy,Route_1,Morning_Office,Office,180,Moderate,22
+Guindy,Route_5,Evening_Office,School,176,Moderate,22
+Tambaram,Route_5,Morning_School,School,87,Moderate,10
+Vadapalani,Route_6,Afternoon_School,Office,132,Moderate,16
+Porur,Route_4,Night,Non_Peak,79,Low,7
+Porur,Route_1,Late_Morning,Non_Peak,63,Low,6
+Mylapore,Route_3,Late_Morning,Non_Peak,63,Low,6
+Tambaram,Route_2,Evening_Office,Office,84,High,16
+Adyar,Route_3,Afternoon_School,Office,182,Low,18
+Mylapore,Route_4,Afternoon_School,School,147,Moderate,18
+Guindy,Route_2,Morning_Office,College,85,Low,8
+Porur,Route_2,Evening_Office,Office,188,Moderate,23
+T. Nagar,Route_1,Night,Non_Peak,51,High,10
+Anna Nagar,Route_4,Morning_Office,Office,195,High,39
+Anna Nagar,Route_6,Early_Afternoon,Non_Peak,49,High,9
+Tambaram,Route_2,Night,Non_Peak,66,Moderate,8
+Kodambakkam,Route_4,Late_Morning,Non_Peak,54,High,10
+Velachery,Route_5,Night,Non_Peak,74,Low,7
+Anna Nagar,Route_6,Afternoon_School,College,119,Low,11
+Vadapalani,Route_4,Evening_Office,School,131,Low,13
+Porur,Route_6,Early_Afternoon,Non_Peak,35,Moderate,4
+Anna Nagar,Route_3,Afternoon_School,School,92,Moderate,11
+Guindy,Route_6,Evening_Office,Office,193,High,38
+Mylapore,Route_4,Night,Non_Peak,79,High,15
+Guindy,Route_6,Afternoon_School,School,185,Low,18
+Adyar,Route_6,Afternoon_School,College,109,Moderate,13
+Mylapore,Route_4,Morning_Office,Office,98,High,19
+Kodambakkam,Route_6,Evening_Office,School,96,High,19
+Tambaram,Route_1,Night,Non_Peak,75,Moderate,9
+Kodambakkam,Route_1,Early_Afternoon,Non_Peak,38,Low,3
+Adyar,Route_3,Late_Morning,Non_Peak,47,Moderate,5
+Anna Nagar,Route_3,Afternoon_School,Office,137,High,27
+Anna Nagar,Route_3,Morning_School,Office,134,Moderate,16
+Kodambakkam,Route_3,Afternoon_School,School,169,Moderate,21
+Vadapalani,Route_1,Night,Non_Peak,56,Moderate,7
+Anna Nagar,Route_4,Morning_Office,School,169,Moderate,21
+Mylapore,Route_2,Morning_School,School,196,Low,19
+T. Nagar,Route_2,Late_Morning,Non_Peak,42,Low,4
+Vadapalani,Route_2,Night,Non_Peak,28,Moderate,3
+Guindy,Route_1,Afternoon_School,School,91,High,18
+Tambaram,Route_4,Morning_Office,School,196,Moderate,24
+Kodambakkam,Route_2,Late_Morning,Non_Peak,20,Moderate,2
+Velachery,Route_6,Early_Afternoon,Non_Peak,77,High,15
+Mylapore,Route_2,Evening_Office,College,80,Low,8
+Guindy,Route_3,Late_Morning,Non_Peak,66,Low,6
+Mylapore,Route_5,Morning_Office,School,113,Moderate,14
+Anna Nagar,Route_6,Morning_Office,Office,175,High,35
+Kodambakkam,Route_4,Night,Non_Peak,73,Moderate,9
+Kodambakkam,Route_5,Afternoon_School,School,127,Low,12
+Porur,Route_2,Afternoon_School,School,168,Moderate,21
+Tambaram,Route_5,Afternoon_School,College,183,Low,18
+Tambaram,Route_4,Early_Afternoon,Non_Peak,64,Low,6
+Adyar,Route_5,Night,Non_Peak,72,High,14
+T. Nagar,Route_3,Late_Morning,Non_Peak,20,Moderate,2
+Mylapore,Route_4,Morning_School,Office,95,Moderate,11
+T. Nagar,Route_3,Evening_Office,School,140,Low,14
+Anna Nagar,Route_1,Morning_School,College,182,Low,18
+Adyar,Route_6,Evening_Office,College,143,Moderate,17
+Mylapore,Route_4,Morning_School,School,142,Low,14
+Anna Nagar,Route_2,Late_Morning,Non_Peak,24,Low,2
+Kodambakkam,Route_4,Evening_Office,College,101,High,20
+Tambaram,Route_6,Night,Non_Peak,48,High,9
+Adyar,Route_5,Evening_Office,College,198,High,39
+Kodambakkam,Route_4,Early_Afternoon,Non_Peak,22,Moderate,2
+Vadapalani,Route_6,Evening_Office,College,155,Moderate,19
+Adyar,Route_5,Late_Morning,Non_Peak,45,High,9
+T. Nagar,Route_3,Late_Morning,Non_Peak,35,Low,3
+Vadapalani,Route_2,Late_Morning,Non_Peak,70,Moderate,8
+Porur,Route_3,Morning_School,Office,180,Low,18
+Guindy,Route_3,Morning_Office,School,165,Low,16
+Guindy,Route_6,Morning_Office,School,136,Low,13
+Vadapalani,Route_4,Late_Morning,Non_Peak,48,Low,4
+Anna Nagar,Route_1,Morning_School,School,157,Low,15
+Anna Nagar,Route_1,Morning_School,School,171,Low,17
+T. Nagar,Route_4,Afternoon_School,School,148,Low,14
+Adyar,Route_5,Early_Afternoon,Non_Peak,66,Low,6
+Guindy,Route_2,Morning_School,College,192,Low,19
+Mylapore,Route_3,Morning_School,College,173,Moderate,21
+Vadapalani,Route_5,Morning_Office,School,189,Low,18
+Velachery,Route_3,Morning_School,School,141,Low,14
+Guindy,Route_1,Early_Afternoon,Non_Peak,71,Moderate,8
+Porur,Route_4,Evening_Office,School,148,Low,14
+Vadapalani,Route_5,Afternoon_School,School,155,Low,15
+Velachery,Route_2,Morning_School,Office,95,Moderate,11
+Velachery,Route_3,Evening_Office,Office,169,Low,16
+Tambaram,Route_6,Late_Morning,Non_Peak,45,Moderate,5
+Porur,Route_4,Early_Afternoon,Non_Peak,67,Moderate,8
+Vadapalani,Route_2,Morning_Office,Office,164,Moderate,20
+Porur,Route_5,Morning_School,College,118,Moderate,14
+Kodambakkam,Route_4,Late_Morning,Non_Peak,55,High,11
+Porur,Route_2,Late_Morning,Non_Peak,52,High,10
+Adyar,Route_3,Morning_Office,College,173,High,34
+T. Nagar,Route_5,Late_Morning,Non_Peak,56,Moderate,7
+Porur,Route_2,Early_Afternoon,Non_Peak,42,High,8
+Tambaram,Route_1,Morning_Office,Office,89,Low,8
+Vadapalani,Route_1,Night,Non_Peak,73,High,14
+Porur,Route_1,Late_Morning,Non_Peak,24,Moderate,3
+Anna Nagar,Route_6,Morning_Office,Office,179,Moderate,22
+Velachery,Route_2,Evening_Office,Office,113,Moderate,14
+Vadapalani,Route_2,Morning_Office,School,131,High,26
+Guindy,Route_2,Morning_Office,School,174,High,34
+Adyar,Route_1,Afternoon_School,College,89,High,17
+Adyar,Route_4,Evening_Office,Office,98,Moderate,12
+Mylapore,Route_1,Early_Afternoon,Non_Peak,77,High,15
+Porur,Route_4,Morning_School,College,175,High,35
+Porur,Route_2,Late_Morning,Non_Peak,20,Moderate,2
+Adyar,Route_5,Morning_Office,School,199,Moderate,24
+Anna Nagar,Route_5,Late_Morning,Non_Peak,24,Low,2
+Tambaram,Route_2,Morning_School,College,188,High,37
+Velachery,Route_3,Morning_Office,Office,83,High,16
+T. Nagar,Route_2,Morning_School,College,95,Moderate,11
+Velachery,Route_1,Morning_School,Office,103,Moderate,12
+Mylapore,Route_1,Evening_Office,College,159,High,31
+Mylapore,Route_3,Late_Morning,Non_Peak,74,Moderate,9
+T. Nagar,Route_5,Morning_School,College,81,Low,8
+Velachery,Route_6,Night,Non_Peak,68,Low,6
+Velachery,Route_2,Afternoon_School,School,171,Low,17
+Porur,Route_1,Early_Afternoon,Non_Peak,51,Low,5
+T. Nagar,Route_5,Night,Non_Peak,46,Low,4
+Kodambakkam,Route_4,Early_Afternoon,Non_Peak,39,Moderate,4
+Velachery,Route_5,Afternoon_School,School,103,Low,10
+Guindy,Route_3,Night,Non_Peak,31,High,6
+Kodambakkam,Route_2,Morning_Office,Office,129,Low,12
+Guindy,Route_4,Early_Afternoon,Non_Peak,54,Moderate,6
+Mylapore,Route_3,Late_Morning,Non_Peak,79,Low,7
+T. Nagar,Route_3,Night,Non_Peak,52,High,10
+Vadapalani,Route_6,Night,Non_Peak,52,Moderate,6
+Guindy,Route_6,Late_Morning,Non_Peak,70,Moderate,8
+Guindy,Route_4,Late_Morning,Non_Peak,62,Low,6
+T. Nagar,Route_5,Late_Morning,Non_Peak,56,High,11
+Anna Nagar,Route_2,Late_Morning,Non_Peak,31,High,6
+Kodambakkam,Route_4,Morning_School,College,146,Low,14
+Anna Nagar,Route_2,Early_Afternoon,Non_Peak,20,Low,2
+Mylapore,Route_4,Early_Afternoon,Non_Peak,52,High,10
+Guindy,Route_2,Morning_School,College,119,High,23
+Porur,Route_4,Morning_Office,College,153,Low,15
+Guindy,Route_5,Morning_School,Office,122,Moderate,15
+Mylapore,Route_2,Early_Afternoon,Non_Peak,63,High,12
+Kodambakkam,Route_1,Early_Afternoon,Non_Peak,48,High,9
+Porur,Route_6,Morning_School,Office,92,Moderate,11
+T. Nagar,Route_2,Night,Non_Peak,31,Low,3
+Vadapalani,Route_1,Morning_School,School,174,Moderate,21
+Tambaram,Route_4,Late_Morning,Non_Peak,65,Moderate,8
+Adyar,Route_2,Late_Morning,Non_Peak,21,Low,2
+Adyar,Route_5,Morning_Office,Office,194,High,38
+Guindy,Route_1,Morning_Office,School,193,Low,19
+Tambaram,Route_6,Afternoon_School,College,114,Moderate,14
+Tambaram,Route_6,Morning_Office,College,166,High,33
+Mylapore,Route_6,Afternoon_School,College,160,Moderate,20
+Vadapalani,Route_2,Night,Non_Peak,45,High,9
+Anna Nagar,Route_1,Morning_School,School,87,Low,8
+Anna Nagar,Route_4,Evening_Office,School,172,Low,17
+T. Nagar,Route_2,Evening_Office,School,105,Low,10
+Anna Nagar,Route_4,Morning_School,Office,153,Low,15
+Mylapore,Route_2,Early_Afternoon,Non_Peak,45,High,9
+Kodambakkam,Route_6,Morning_Office,Office,113,Moderate,14
+Porur,Route_3,Morning_School,College,194,Moderate,24
+Vadapalani,Route_6,Afternoon_School,School,184,Low,18
+Porur,Route_1,Late_Morning,Non_Peak,26,High,5
+Velachery,Route_3,Morning_School,College,147,Low,14
+Porur,Route_3,Afternoon_School,Office,137,High,27
+Guindy,Route_4,Late_Morning,Non_Peak,72,Low,7
+Porur,Route_6,Evening_Office,Office,193,Moderate,24
+Adyar,Route_4,Afternoon_School,School,188,Moderate,23
+Mylapore,Route_3,Afternoon_School,College,154,Low,15
+Kodambakkam,Route_2,Early_Afternoon,Non_Peak,48,Moderate,6
+Vadapalani,Route_3,Early_Afternoon,Non_Peak,75,High,15
+Vadapalani,Route_4,Late_Morning,Non_Peak,55,Moderate,6
+Anna Nagar,Route_4,Morning_School,Office,168,Moderate,21
+T. Nagar,Route_3,Evening_Office,College,100,Low,10
+Vadapalani,Route_1,Night,Non_Peak,76,Low,7
+Anna Nagar,Route_2,Late_Morning,Non_Peak,55,Low,5
+Velachery,Route_5,Afternoon_School,College,89,High,17
+Kodambakkam,Route_4,Morning_Office,College,180,High,36
+T. Nagar,Route_5,Evening_Office,College,152,High,30
+Tambaram,Route_4,Early_Afternoon,Non_Peak,43,High,8
+Kodambakkam,Route_3,Early_Afternoon,Non_Peak,54,High,10
+Tambaram,Route_4,Evening_Office,College,128,Moderate,16
+Kodambakkam,Route_1,Morning_School,School,178,High,35
+Anna Nagar,Route_2,Evening_Office,Office,191,Low,19
+T. Nagar,Route_1,Night,Non_Peak,55,Moderate,6
+Mylapore,Route_3,Morning_School,Office,161,Low,16
+Porur,Route_3,Morning_School,Office,192,Moderate,24
+Mylapore,Route_1,Night,Non_Peak,58,Moderate,7
+Mylapore,Route_4,Evening_Office,College,175,Moderate,21
+Velachery,Route_3,Night,Non_Peak,43,High,8
+Vadapalani,Route_1,Late_Morning,Non_Peak,42,High,8
+Velachery,Route_6,Morning_School,Office,141,High,28
+Kodambakkam,Route_3,Early_Afternoon,Non_Peak,51,High,10
+Kodambakkam,Route_5,Morning_School,School,116,Moderate,14
+Guindy,Route_4,Morning_Office,College,91,High,18
+Porur,Route_3,Morning_School,College,192,Moderate,24
+Anna Nagar,Route_4,Night,Non_Peak,74,Low,7
+Porur,Route_1,Afternoon_School,School,92,High,18
+Kodambakkam,Route_2,Evening_Office,Office,102,High,20
+Adyar,Route_4,Morning_School,College,168,Low,16
+Porur,Route_2,Late_Morning,Non_Peak,54,High,10
+Guindy,Route_1,Evening_Office,Office,184,Moderate,23
+Adyar,Route_1,Evening_Office,School,109,Moderate,13
+Porur,Route_6,Morning_School,College,96,High,19
+Velachery,Route_5,Evening_Office,Office,192,Moderate,24
+Guindy,Route_3,Night,Non_Peak,39,Moderate,4
+Mylapore,Route_3,Evening_Office,School,191,Moderate,23
+Kodambakkam,Route_2,Late_Morning,Non_Peak,44,High,8
+T. Nagar,Route_2,Morning_Office,Office,165,Low,16
+Vadapalani,Route_1,Morning_School,School,92,Low,9
+Tambaram,Route_2,Morning_Office,College,138,Low,13
+T. Nagar,Route_4,Early_Afternoon,Non_Peak,38,Moderate,4
+Guindy,Route_6,Night,Non_Peak,68,High,13
+Anna Nagar,Route_4,Early_Afternoon,Non_Peak,55,Moderate,6
+Mylapore,Route_6,Early_Afternoon,Non_Peak,31,Moderate,3
+Adyar,Route_3,Evening_Office,College,140,Moderate,17
+Tambaram,Route_2,Morning_Office,Office,184,High,36
+Mylapore,Route_6,Evening_Office,Office,98,Low,9
+Guindy,Route_4,Evening_Office,Office,155,Moderate,19
+Adyar,Route_5,Night,Non_Peak,28,Moderate,3
+Mylapore,Route_5,Morning_School,College,150,Low,15
+Tambaram,Route_2,Morning_School,College,107,High,21
+Velachery,Route_3,Night,Non_Peak,33,Low,3
+Kodambakkam,Route_1,Night,Non_Peak,50,High,10
+Adyar,Route_5,Morning_Office,School,131,High,26
+Vadapalani,Route_5,Evening_Office,College,162,High,32
+Tambaram,Route_1,Night,Non_Peak,77,Low,7
+Tambaram,Route_4,Early_Afternoon,Non_Peak,66,High,13
+T. Nagar,Route_1,Early_Afternoon,Non_Peak,35,Low,3
+Kodambakkam,Route_1,Early_Afternoon,Non_Peak,72,Moderate,9
+Porur,Route_2,Evening_Office,College,148,Moderate,18
+Guindy,Route_6,Morning_School,School,178,Low,17
+T. Nagar,Route_2,Afternoon_School,College,91,High,18
+Tambaram,Route_3,Late_Morning,Non_Peak,44,Low,4
+Tambaram,Route_4,Late_Morning,Non_Peak,71,Low,7
+Mylapore,Route_2,Early_Afternoon,Non_Peak,78,High,15
+Guindy,Route_1,Afternoon_School,School,164,Low,16
+Kodambakkam,Route_5,Night,Non_Peak,55,High,11
+Velachery,Route_5,Early_Afternoon,Non_Peak,72,Moderate,9
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,42,Moderate,5
+Anna Nagar,Route_1,Night,Non_Peak,35,Moderate,4
+Velachery,Route_3,Evening_Office,Office,136,Moderate,17
+Velachery,Route_1,Late_Morning,Non_Peak,58,Moderate,7
+Vadapalani,Route_4,Morning_Office,College,188,High,37
+T. Nagar,Route_1,Afternoon_School,School,132,Low,13
+Velachery,Route_5,Evening_Office,College,121,Moderate,15
+Kodambakkam,Route_6,Early_Afternoon,Non_Peak,77,Low,7
+Mylapore,Route_2,Early_Afternoon,Non_Peak,58,Low,5
+Tambaram,Route_6,Afternoon_School,Office,93,Low,9
+Guindy,Route_1,Evening_Office,School,174,High,34
+Porur,Route_1,Morning_School,Office,84,High,16
+Vadapalani,Route_3,Morning_School,Office,114,Moderate,14
+Adyar,Route_5,Early_Afternoon,Non_Peak,42,High,8
+Anna Nagar,Route_6,Afternoon_School,Office,172,High,34
+Anna Nagar,Route_1,Night,Non_Peak,62,High,12
+Velachery,Route_5,Morning_Office,College,154,High,30
+Velachery,Route_6,Night,Non_Peak,37,Moderate,4
+Anna Nagar,Route_2,Night,Non_Peak,66,Low,6
+Anna Nagar,Route_1,Afternoon_School,School,155,Low,15
+Adyar,Route_1,Late_Morning,Non_Peak,28,High,5
+Adyar,Route_4,Late_Morning,Non_Peak,29,Low,2
+T. Nagar,Route_3,Afternoon_School,College,137,High,27
+Vadapalani,Route_1,Morning_School,School,187,High,37
+T. Nagar,Route_1,Morning_Office,College,96,Moderate,12
+Tambaram,Route_5,Evening_Office,College,181,Moderate,22
+Velachery,Route_1,Evening_Office,College,86,High,17
+Guindy,Route_2,Night,Non_Peak,65,Moderate,8
+T. Nagar,Route_1,Morning_Office,College,92,Low,9
+Vadapalani,Route_3,Afternoon_School,Office,119,Low,11
+Mylapore,Route_6,Late_Morning,Non_Peak,61,Moderate,7
+Vadapalani,Route_1,Evening_Office,Office,88,Low,8
+Anna Nagar,Route_5,Afternoon_School,School,129,Moderate,16
+Porur,Route_5,Late_Morning,Non_Peak,46,High,9
+Vadapalani,Route_6,Evening_Office,School,145,High,29
+T. Nagar,Route_1,Early_Afternoon,Non_Peak,24,Low,2
+Anna Nagar,Route_6,Morning_Office,College,108,High,21
+Tambaram,Route_2,Morning_School,College,116,Moderate,14
+Kodambakkam,Route_1,Late_Morning,Non_Peak,57,Low,5
+Guindy,Route_1,Evening_Office,College,162,Low,16
+Anna Nagar,Route_4,Afternoon_School,College,87,Moderate,10
+Mylapore,Route_1,Afternoon_School,College,191,High,38
+Porur,Route_6,Early_Afternoon,Non_Peak,64,High,12
+Adyar,Route_5,Late_Morning,Non_Peak,20,High,4
+Anna Nagar,Route_5,Early_Afternoon,Non_Peak,41,Moderate,5
+Guindy,Route_3,Early_Afternoon,Non_Peak,71,Moderate,8
+Tambaram,Route_3,Night,Non_Peak,36,High,7
+Tambaram,Route_4,Afternoon_School,Office,150,High,30
+T. Nagar,Route_3,Night,Non_Peak,44,Moderate,5
+Vadapalani,Route_3,Morning_Office,School,124,High,24
+Velachery,Route_6,Morning_School,Office,83,High,16
+Mylapore,Route_3,Night,Non_Peak,55,Low,5
+Adyar,Route_3,Night,Non_Peak,25,High,5
+Mylapore,Route_1,Night,Non_Peak,79,High,15
+Anna Nagar,Route_4,Evening_Office,Office,110,Low,11
+Mylapore,Route_1,Late_Morning,Non_Peak,38,Moderate,4
+Porur,Route_1,Evening_Office,School,140,Low,14
+Kodambakkam,Route_3,Evening_Office,School,187,Moderate,23
+Velachery,Route_5,Morning_Office,Office,133,Low,13
+Kodambakkam,Route_1,Night,Non_Peak,58,High,11
+Porur,Route_5,Morning_School,School,170,Moderate,21
+Mylapore,Route_3,Night,Non_Peak,29,Low,2
+Velachery,Route_2,Morning_School,Office,169,High,33
+Velachery,Route_6,Night,Non_Peak,38,Moderate,4
+Vadapalani,Route_4,Afternoon_School,School,118,High,23
+Adyar,Route_1,Early_Afternoon,Non_Peak,22,High,4
+T. Nagar,Route_1,Afternoon_School,School,124,Moderate,15
+Tambaram,Route_2,Night,Non_Peak,32,Low,3
+Velachery,Route_3,Evening_Office,Office,193,High,38
+Mylapore,Route_1,Afternoon_School,School,171,High,34
+Vadapalani,Route_1,Early_Afternoon,Non_Peak,77,Moderate,9
+Velachery,Route_3,Morning_School,School,99,High,19
+Mylapore,Route_2,Early_Afternoon,Non_Peak,47,Moderate,5
+T. Nagar,Route_1,Afternoon_School,Office,151,High,30
+Guindy,Route_6,Morning_School,College,140,Moderate,17
+Anna Nagar,Route_2,Morning_Office,School,184,Moderate,23
+Velachery,Route_2,Afternoon_School,College,118,High,23
+Guindy,Route_3,Early_Afternoon,Non_Peak,20,High,4
+Mylapore,Route_5,Early_Afternoon,Non_Peak,22,Low,2
+Guindy,Route_5,Night,Non_Peak,32,Low,3
+Anna Nagar,Route_4,Morning_School,College,171,High,34
+Porur,Route_1,Night,Non_Peak,76,Moderate,9
+Vadapalani,Route_5,Morning_School,College,142,High,28
+Anna Nagar,Route_5,Night,Non_Peak,79,High,15
+Tambaram,Route_6,Evening_Office,College,192,Low,19
+Porur,Route_5,Night,Non_Peak,44,Low,4
+Vadapalani,Route_2,Late_Morning,Non_Peak,75,High,15
+Anna Nagar,Route_6,Morning_School,School,112,Low,11
+Mylapore,Route_3,Afternoon_School,College,117,High,23
+Tambaram,Route_5,Early_Afternoon,Non_Peak,72,Low,7
+Vadapalani,Route_5,Night,Non_Peak,25,Moderate,3
+Anna Nagar,Route_1,Night,Non_Peak,77,Low,7
+Vadapalani,Route_5,Night,Non_Peak,63,High,12
+Adyar,Route_5,Evening_Office,School,124,Moderate,15
+Tambaram,Route_2,Late_Morning,Non_Peak,51,Moderate,6
+Kodambakkam,Route_3,Morning_Office,School,124,High,24
+Tambaram,Route_5,Evening_Office,Office,140,High,28
+Velachery,Route_1,Morning_Office,College,126,Low,12
+Guindy,Route_3,Evening_Office,Office,100,High,20
+Anna Nagar,Route_2,Morning_Office,Office,159,High,31
+Tambaram,Route_5,Morning_School,Office,197,Moderate,24
+Tambaram,Route_5,Early_Afternoon,Non_Peak,40,High,8
+Kodambakkam,Route_1,Evening_Office,Office,154,Moderate,19
+Porur,Route_6,Early_Afternoon,Non_Peak,79,High,15
+Adyar,Route_6,Afternoon_School,College,180,Moderate,22
+Guindy,Route_5,Night,Non_Peak,55,Moderate,6
+Anna Nagar,Route_3,Afternoon_School,Office,178,Moderate,22
+Mylapore,Route_2,Morning_Office,School,98,Low,9
+Mylapore,Route_6,Evening_Office,College,99,Low,9
+Guindy,Route_1,Early_Afternoon,Non_Peak,76,Low,7
+Adyar,Route_3,Late_Morning,Non_Peak,37,Moderate,4
+Kodambakkam,Route_6,Late_Morning,Non_Peak,66,Moderate,8
+T. Nagar,Route_6,Late_Morning,Non_Peak,60,High,12
+Adyar,Route_1,Early_Afternoon,Non_Peak,68,High,13
+Velachery,Route_5,Early_Afternoon,Non_Peak,33,Low,3
+Porur,Route_5,Afternoon_School,Office,94,Moderate,11
+Velachery,Route_4,Morning_School,School,110,Moderate,13
+T. Nagar,Route_4,Morning_Office,School,80,Low,8
+Porur,Route_4,Morning_Office,School,196,Moderate,24
+Adyar,Route_2,Night,Non_Peak,73,Low,7
+Tambaram,Route_4,Evening_Office,School,197,High,39
+Vadapalani,Route_4,Morning_School,Office,82,Low,8
+Kodambakkam,Route_1,Night,Non_Peak,35,Low,3
+Mylapore,Route_1,Early_Afternoon,Non_Peak,42,High,8
+Guindy,Route_2,Night,Non_Peak,76,High,15
+Guindy,Route_5,Morning_School,College,154,Low,15
+Vadapalani,Route_5,Evening_Office,School,91,High,18
+Anna Nagar,Route_6,Afternoon_School,Office,153,High,30
+Guindy,Route_2,Afternoon_School,School,175,High,35
+Tambaram,Route_6,Morning_Office,School,95,Moderate,11
+Adyar,Route_4,Night,Non_Peak,27,High,5
+Mylapore,Route_3,Evening_Office,School,181,Low,18
+Kodambakkam,Route_5,Early_Afternoon,Non_Peak,31,High,6
+Anna Nagar,Route_4,Morning_School,College,103,High,20
+Adyar,Route_3,Late_Morning,Non_Peak,47,Moderate,5
+Anna Nagar,Route_5,Afternoon_School,School,196,Moderate,24
+Mylapore,Route_2,Morning_Office,School,87,Moderate,10
+Adyar,Route_1,Late_Morning,Non_Peak,77,Moderate,9
+Vadapalani,Route_1,Early_Afternoon,Non_Peak,47,High,9
+Tambaram,Route_2,Afternoon_School,School,115,Low,11
+Guindy,Route_1,Afternoon_School,College,169,High,33
+Porur,Route_3,Evening_Office,College,87,Moderate,10
+Porur,Route_1,Late_Morning,Non_Peak,77,Moderate,9
+Adyar,Route_4,Early_Afternoon,Non_Peak,79,Moderate,9
+T. Nagar,Route_3,Afternoon_School,Office,129,High,25
+T. Nagar,Route_3,Morning_Office,School,107,High,21
+Adyar,Route_6,Night,Non_Peak,47,High,9
+Vadapalani,Route_4,Early_Afternoon,Non_Peak,56,Low,5
+Anna Nagar,Route_1,Late_Morning,Non_Peak,60,Moderate,7
+Porur,Route_6,Afternoon_School,College,179,Low,17
+Kodambakkam,Route_4,Afternoon_School,Office,143,Low,14
+T. Nagar,Route_3,Night,Non_Peak,46,High,9
+Mylapore,Route_1,Morning_Office,Office,197,High,39
+Vadapalani,Route_5,Early_Afternoon,Non_Peak,36,Moderate,4
+Vadapalani,Route_6,Late_Morning,Non_Peak,28,Moderate,3
+T. Nagar,Route_1,Afternoon_School,Office,112,Low,11
+Mylapore,Route_3,Evening_Office,Office,196,Moderate,24
+Velachery,Route_4,Late_Morning,Non_Peak,39,Low,3
+Mylapore,Route_6,Afternoon_School,College,156,High,31
+Adyar,Route_4,Morning_School,School,171,Low,17
+Adyar,Route_1,Morning_School,College,191,Moderate,23
+Anna Nagar,Route_5,Late_Morning,Non_Peak,48,Low,4
+Adyar,Route_5,Morning_Office,Office,92,Moderate,11
+Mylapore,Route_5,Late_Morning,Non_Peak,65,Low,6
+Mylapore,Route_4,Night,Non_Peak,54,High,10
+Porur,Route_6,Afternoon_School,Office,85,Low,8
+Velachery,Route_5,Morning_Office,School,161,Moderate,20
+Vadapalani,Route_5,Late_Morning,Non_Peak,70,Moderate,8
+Adyar,Route_6,Morning_Office,School,148,High,29
+Tambaram,Route_6,Night,Non_Peak,66,Low,6
+Tambaram,Route_4,Evening_Office,Office,104,Moderate,13
+Mylapore,Route_4,Morning_Office,College,145,High,29
+Porur,Route_4,Evening_Office,Office,89,Moderate,11
+Adyar,Route_4,Morning_School,College,135,High,27
+T. Nagar,Route_3,Night,Non_Peak,49,High,9
+T. Nagar,Route_1,Night,Non_Peak,69,Low,6
+Guindy,Route_2,Night,Non_Peak,78,High,15
+Tambaram,Route_5,Morning_School,Office,188,Moderate,23
+Porur,Route_3,Late_Morning,Non_Peak,24,Low,2
+Guindy,Route_1,Afternoon_School,School,198,Low,19
+Vadapalani,Route_5,Evening_Office,School,199,Moderate,24
+T. Nagar,Route_3,Morning_Office,College,112,Low,11
+Velachery,Route_2,Late_Morning,Non_Peak,73,High,14
+Porur,Route_3,Morning_Office,Office,144,High,28
+Tambaram,Route_2,Evening_Office,Office,97,Moderate,12
+Mylapore,Route_5,Early_Afternoon,Non_Peak,51,Moderate,6
+Guindy,Route_6,Night,Non_Peak,66,High,13
+Tambaram,Route_1,Early_Afternoon,Non_Peak,68,Moderate,8
+Tambaram,Route_2,Night,Non_Peak,30,Moderate,3
+Adyar,Route_6,Afternoon_School,College,164,Moderate,20
+Anna Nagar,Route_1,Night,Non_Peak,45,Low,4
+Adyar,Route_2,Afternoon_School,Office,142,Moderate,17
+Kodambakkam,Route_5,Early_Afternoon,Non_Peak,44,Moderate,5
+Guindy,Route_1,Late_Morning,Non_Peak,41,High,8
+Tambaram,Route_5,Evening_Office,College,138,Moderate,17
+Porur,Route_5,Morning_Office,College,106,Low,10
+Adyar,Route_6,Evening_Office,Office,128,Moderate,16
+Guindy,Route_1,Night,Non_Peak,32,Low,3
+Porur,Route_6,Early_Afternoon,Non_Peak,52,High,10
+Mylapore,Route_5,Morning_Office,Office,177,Low,17
+Tambaram,Route_2,Late_Morning,Non_Peak,60,Low,6
+Mylapore,Route_3,Morning_School,Office,178,Moderate,22
+Mylapore,Route_2,Night,Non_Peak,20,High,4
+Mylapore,Route_6,Morning_Office,Office,100,Low,10
+Tambaram,Route_5,Early_Afternoon,Non_Peak,67,Low,6
+Vadapalani,Route_1,Afternoon_School,School,134,High,26
+Kodambakkam,Route_2,Morning_School,College,85,High,17
+Mylapore,Route_1,Evening_Office,School,171,Low,17
+Anna Nagar,Route_1,Morning_Office,College,160,Moderate,20
+Mylapore,Route_5,Morning_Office,Office,148,Low,14
+Guindy,Route_6,Night,Non_Peak,50,Low,5
+Tambaram,Route_4,Evening_Office,College,84,Low,8
+Porur,Route_4,Morning_School,College,181,Low,18
+Tambaram,Route_1,Morning_Office,College,82,Low,8
+Tambaram,Route_1,Morning_Office,School,132,High,26
+Mylapore,Route_5,Afternoon_School,Office,102,High,20
+Velachery,Route_1,Evening_Office,College,180,Low,18
+Mylapore,Route_1,Late_Morning,Non_Peak,72,High,14
+Anna Nagar,Route_6,Early_Afternoon,Non_Peak,56,High,11
+Kodambakkam,Route_6,Early_Afternoon,Non_Peak,29,Low,2
+Adyar,Route_3,Late_Morning,Non_Peak,29,Low,2
+Tambaram,Route_1,Late_Morning,Non_Peak,38,High,7
